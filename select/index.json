@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "base_track": "I Want It That Way",
+  "base_artist": "Backstreet Boys",
+  "createdAt": "2026-03-28T10:20:44.768019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/01_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "i want it that way",
+      "artist": "backstreetboys",
+      "has_synced": true,
+      "path": "select/02_i_want_it_that_way_backstreetboys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/03_I_Want_It_That_Way_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/04_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/05_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/06_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want It that Way",
+      "artist": "Resaid",
+      "has_synced": true,
+      "path": "select/07_I_Want_It_that_Way_Resaid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/08_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/09_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/10_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/11_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/12_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/13_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/14_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Fools Garden",
+      "has_synced": false,
+      "path": "select/15_I_Want_It_That_Way_Fools_Garden.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/16_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "N/A",
+      "has_synced": true,
+      "path": "select/17_I_Want_It_That_Way_N_A.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/18_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/19_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/20_I_Want_It_That_Way_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I WANT IT THAT WAY",
+      "artist": "Backstreet Boys",
+      "has_synced": false,
+      "path": "select/pl_01_I_WANT_IT_THAT_WAY_Backstreet_Boys.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/localdb_01_I_Want_It_That_Way_Backstreet_Boys.lrc",
+      "repo_name": "4fndeDfaWCg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": false,
+      "path": "select/localdb_02_I_Want_It_That_Way_Backstreet_Boys.txt",
+      "repo_name": "9_TcHdT81XI"
+    }
+  ]
+}
